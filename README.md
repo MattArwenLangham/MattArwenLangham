@@ -1,16 +1,45 @@
-### Hi there 👋
+```
+if ( hoursBeenAwake > 24 && isStillCoding){ 
+    sendHelp() 
+  }
+```
 
-<!--
-**MattArwenLangham/MattArwenLangham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Oh... Hello World🌎<br>
+I didn't <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="see" width="20" height="20"/>&nbsp;you there.
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Matt. You may know me from such things as the 8th best player on fine sweeper (steams premium minesweeper game)...
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/48326572/202772694-6a0009be-9b31-45f5-a03b-73ac17b8d3a9.png"/>
+</div>
+
+...and the guy who does 🂡 card tricks 🂡.
+
+When I'm not sweeping mines or finding cards, I'm learning how to code and creating all sorts of fun projects.
+
+Languages and frameworks I have experience in:
+---
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+</div>
+<p align="right">Beginner Rosetta Stone Level</p>
+
+Languages and frameworks I'm learning:
+---
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+</div>
+
