@@ -1,9 +1,3 @@
-```
-if ( hoursBeenAwake > 24 && isStillCoding){ 
-    sendHelp() 
-  }
-```
-
 <h3 align="center">
 Oh... Hello World🌎<br>
 I didn't <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="see" width="20" height="20"/>&nbsp;you there.
@@ -43,3 +37,8 @@ Languages and frameworks I'm learning:
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
 </div>
 
+```
+if ( hoursBeenAwake > 24 && isStillCoding){ 
+    sendHelp() 
+  }
+```
